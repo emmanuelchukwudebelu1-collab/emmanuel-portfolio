@@ -1,0 +1,1 @@
+SELECT * FROM marketing_campaigns
